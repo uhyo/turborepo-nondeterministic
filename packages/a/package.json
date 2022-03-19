@@ -1,0 +1,7 @@
+{
+  "name": "a",
+  "scripts": {
+    "generate": "mkdir -p generated && echo generated > ./generated/a.txt",
+    "build": "mkdir -p dist && echo built > ./dist/a.txt"
+  }
+}

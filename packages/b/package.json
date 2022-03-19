@@ -1,0 +1,10 @@
+{
+  "name": "b",
+  "scripts": {
+    "generate": "mkdir -p generated && echo generated > ./generated/b.txt",
+    "build": "mkdir -p dist && echo built > ./dist/b.txt"
+  },
+  "dependencies": {
+    "a": "*"
+  }
+}

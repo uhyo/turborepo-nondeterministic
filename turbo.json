@@ -1,0 +1,12 @@
+{
+  "pipeline": {
+    "generate": {},
+    "build": {
+      "dependsOn": [
+        "^build",
+        "generate"
+      ]
+    },
+    "c#build": {}
+  }
+}
