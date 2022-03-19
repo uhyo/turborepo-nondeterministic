@@ -6,7 +6,7 @@
     "packages/*"
   ],
   "scripts": {
-    "repro": "turbo run build --scope=b --scope=a --no-deps"
+    "repro": "turbo run build --scope=b --scope=a"
   },
   "devDependencies": {
     "prettier": "^2.5.1",
