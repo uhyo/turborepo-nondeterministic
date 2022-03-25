@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "prettier": "^2.5.1",
-    "turbo": "^1.2.0-canary.0"
+    "turbo": "^1.2.0-canary.3"
   },
   "engines": {
     "npm": ">=7.0.0",
